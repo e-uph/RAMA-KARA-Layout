@@ -1,3 +1,3 @@
-RAMA KARA HHKB Layout 
-JSON file ready for VIA
+RAMA KARA HHKB Layout / 
+JSON file VIA / 
 Intuitive media control & navigation cluster
